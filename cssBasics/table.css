@@ -1,0 +1,15 @@
+#chart table{
+    width: 30%;
+    border-collapse: collapse;
+}
+
+#chart th{
+    text-align: left;
+    color: white;
+    background-color: #427fef;
+    padding: 6px;
+}
+
+#chart tr:nth-child(even){
+    background-color: lightgreen;
+}
