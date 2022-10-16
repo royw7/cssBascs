@@ -1,0 +1,23 @@
+#chart table{
+    width: 30%;
+    border-collapse: collapse;
+    border-color: #c4dcf3
+}
+
+#chart th{
+    text-align: left;
+    color: white;
+    background-color: #427fef;
+    padding: 6px;
+}
+
+#chart td{
+    padding: 5px;
+}
+
+#chart tr:nth-child(even){
+    background-color:#b0c2b0;
+}
+
+/* It definetly took longer than expected, about 40 minutes, since I was trying to get the smallest details right and even then I don't think I gotten to be absolutely exact
+ but I think I've gotten very close */
